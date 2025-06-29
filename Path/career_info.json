@@ -1,0 +1,18 @@
+{
+  "Software Engineer": {
+    "description": "Software engineers develop, test, and maintain software applications.",
+    "certifications": ["Google Professional Cloud Developer", "Microsoft Certified: Azure Developer"]
+  },
+  "Graphic Designer": {
+    "description": "Graphic designers create visual content to communicate messages.",
+    "certifications": ["Adobe Certified Professional", "Canva Design School"]
+  },
+  "Data Scientist": {
+    "description": "Data scientists analyze and interpret complex data to help organizations make better decisions.",
+    "certifications": ["IBM Data Science Professional Certificate", "Google Advanced Data Analytics"]
+  },
+  "Digital Marketer": {
+    "description": "Digital marketers develop strategies to market products and services online.",
+    "certifications": ["Meta Certified Digital Marketing Associate", "Google Digital Garage"]
+  }
+}
